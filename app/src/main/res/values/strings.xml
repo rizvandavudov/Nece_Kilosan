@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Nece Kilosan</string>
+    <string name="app_baslik">Planetlerde Nece Kilosan ???</string>
+    <string name="kilo_giris_hint">Yer Kuresindeki Kilonu Yaz</string>
+    <string name="hesabla">HESABLA</string>
+    <string name="sonuc">Sonuc</string>
+</resources>
